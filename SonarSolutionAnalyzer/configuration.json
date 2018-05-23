@@ -1,9 +1,9 @@
 ﻿{
-  "RootPath": "C:\\Users\\Siarhei_Zhalezka\\repos\\sonar-solution-analyzer\\NetTestsSolutions",
+  "RootPath": "",
   "ExcludedPaths": [],
   "IncludedPaths": [],
   "SonarScannerPath": "",
-  "SoanarLogin": "3b322d0baaf0af6c34410e9f19ee0918b1d63800",
+  "SoanarLogin": "",
   "CoverageReportPath": "",
   "NugetPath": "",
   "BuildToolPath": "",
