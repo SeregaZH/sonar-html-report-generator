@@ -1,0 +1,7 @@
+﻿{
+  "ExcludedPaths": [ "C:\\" ],
+  "SonarScannerPath": "C:\\",
+  "SoanarLogin": "C:\\",
+  "CoverageReportPath": "C:\\",
+  "SonarUrl": "http://localhost:9000" 
+}

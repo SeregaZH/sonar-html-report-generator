@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProjectsFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "--source-path ../../../../ -d ../../../../"
+    }
+  }
+}
